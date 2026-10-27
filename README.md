@@ -45,3 +45,7 @@ Open **UIS+ settings** and switch it off, or disable the script in your userscri
 ## Notes
 
 UIS+ isn't an official STU project. If UIS changes its pages, parts of the script may stop working until it's updated.
+
+## License
+
+[MIT](LICENSE)

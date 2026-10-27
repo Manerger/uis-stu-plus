@@ -5,6 +5,7 @@
 // @downloadURL  https://raw.githubusercontent.com/Manerger/uis-stu-plus/main/uis-stu-plus.user.js
 // @updateURL    https://raw.githubusercontent.com/Manerger/uis-stu-plus/main/uis-stu-plus.user.js
 // @version      2.5.0
+// @license      MIT
 // @description  A cleaner, more informative UIS STU (is.stuba.sk): slim header, today's classes and semester week, quick search (Ctrl+K), pinned pages, better tables and timetable, dark mode.
 // @match        https://is.stuba.sk/*
 // @run-at       document-start
